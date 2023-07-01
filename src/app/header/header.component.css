@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 8%;
+  background-color: #111;
+  padding: 0 1rem;
+}
+
+a {
+  color: #ddd;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  transition: 0.3s; 
+}
+
+h1 {
+  color: #ddd;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-weight: 500;
+}
+
+h1:hover {
+  color: #fff;
+}
