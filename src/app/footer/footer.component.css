@@ -1,7 +1,7 @@
 footer {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   height: 8%;
   background-color: #111;
   padding: 0 1rem;
@@ -11,4 +11,9 @@ p {
   color: #ddd;
   letter-spacing: 0.1rem;
   font-weight: 500;
+}
+
+#email {
+  color: #888;
+  font-size: 0.7rem;
 }
